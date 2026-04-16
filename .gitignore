@@ -1,0 +1,18 @@
+# Build files
+bin/
+obj/
+
+# Node
+node_modules/
+
+# Secrets
+.env
+appsettings.json
+
+# IDE
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
